@@ -3,7 +3,7 @@
 ## Source
 https://www.kaggle.com/datasets/shashanks1202/apartment-rent-data/data
 
-# Overviw
+# Overveiw
 This dataset comprises detailed information on apartment rentals, ideal for various machine learning tasks including clustering, classification, and regression. It features a comprehensive set of attributes that capture essential aspects of rental listings, such as:
 
 Identifiers & Location: Includes unique identifiers (id), geographic details (address, cityname, state, latitude, longitude), and the source of the classified listing.
