@@ -22,7 +22,7 @@ The dataset used is well-researched and has been analyzed by many others. While 
   - Classification Analysis
   - Interpretation and meaningful insights
 
-## Fingins and more in depth analysis
+## Findings and more in depth analysis
 All that is included in the report file.
 
 ## How to Run the Code
