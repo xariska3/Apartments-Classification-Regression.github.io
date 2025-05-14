@@ -28,6 +28,7 @@ All that is included in the report file.
 ## How to Run the Code
 1. Download the dataset from the kaggle link that is in the Dataset Description file.
 2. Download the notebook and run it in Google Colab or IDE of your preference.
+3. Run this command to install all the necessary packages if you don't have them already. <pre><code>pip install numpy pandas matplotlib seaborn scikit-learn xgboost tensorflow prettytable scipy ydata-profiling </code></pre>
 
 
 
