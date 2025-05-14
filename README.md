@@ -1,2 +1,2 @@
-# xariska-USA-ML.github.io
+# USA-ML.github.io
 U.S. Apartments Rental Prediction and Classification
